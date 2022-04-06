@@ -6,3 +6,6 @@ In the data prepocessing, we perform case-folding, remove irrelevant information
 
 ## Indonesian-Twitter-Emotion-Dataset
 For more information about the original datasets, please read https://doi.org/10.1109/IALP.2018.8629262
+
+## Result of Model Training
+The result of our model training can be seen in the excel file: "Experiment Results on Feature Engineering.xlsx"
