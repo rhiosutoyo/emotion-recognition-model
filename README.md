@@ -1,4 +1,9 @@
-# Indonesian-Emotions-Recognition-Model
+# Indonesian Twitter Emotion Recognition using Feature Engineering
+This GitHub was created to provide supporting materials for "Indonesian Twitter Emotion Recognition using Feature Engineering" to other researchers.
+
+The full results of the experiment can be seen in the excel file 
+- 
+
 "Twitter_Emotion_Dataset_PreProcess" contains 4.403 preprocessed Indonesian tweets derived from Saputri, et al (https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset).
 
 ## Data Preprocessing
