@@ -9,5 +9,5 @@ This GitHub was created to provide supporting research materials for other resea
 
 Thank you for reading. If you have any questions, please contact me via rsutoyo@binus.edu.
 
-Kind regards,
+Kind regards,  
 Rhio Sutoyo
