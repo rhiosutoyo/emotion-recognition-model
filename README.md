@@ -1,5 +1,5 @@
 # Indonesian Twitter Emotion Recognition using Feature Engineering
-This GitHub was created to provide supporting research materials for other researchers.
+This GitHub was created to provide supporting research materials of "Indonesian Twitter Emotion Recognition using Feature Engineering".
 
 - **Dataset**: This work utilized Indonesian Twitter Emotion Dataset from Saputri et al. Their dataset can be accessed at [this link](https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset). More information can also be found in [their paper](https://doi.org/10.1109/IALP.2018.8629262).
 
