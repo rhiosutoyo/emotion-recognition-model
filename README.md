@@ -2,12 +2,7 @@
 This GitHub was created to provide supporting research materials of "Indonesian Twitter Emotion Recognition using Feature Engineering".
 
 - **Dataset**<br>
-This work utilized the Indonesian Twitter Emotion Dataset from Saputri et al.
-Their dataset can be accessed at [this link](https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset).
-More information can also be found in [their paper](https://doi.org/10.1109/IALP.2018.8629262).
-
-- **Preprocessed Dataset**<br>
-The preprocessed dataset was derived from the Indonesian Twitter Emotion Dataset. In the data preprocessing, this work performs case-folding, removes irrelevant information, applies standardization, data stemming, and removes stop words. The file can be downloaded in this [CSV file](https://github.com/rhiosutoyo/emotion-recognition-model/blob/main/preprocessed-dataset.csv).
+The preprocessed dataset was derived from the [Indonesian Twitter Emotion Dataset](https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset) from [Saputri et al.](https://doi.org/10.1109/IALP.2018.8629262). In the data preprocessing, this work performs case-folding, removes irrelevant information, applies standardization, data stemming, and removes stop words. The file can be downloaded in this [CSV file](https://github.com/rhiosutoyo/emotion-recognition-model/blob/main/preprocessed-dataset.csv).
 
 - **Full Experiment Result**<br>
 The full results of the experiment can be seen in this [CSV file](https://github.com/rhiosutoyo/emotion-recognition-model/blob/main/full-experiment%20result.csv).
