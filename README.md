@@ -1,6 +1,7 @@
 # Indonesian Twitter Emotion Recognition using Feature Engineering
 This research explores feature engineering techniques to find the best features for building an emotion recognition model on the Indonesian Twitter dataset. Two different text data representations were used, namely TF-IDF and word embedding.<br><br>
 This research proposed 12 feature engineering configurations in TF-IDF by combining data stemming, data augmentation, and machine learning classifiers. Moreover, this research proposed 27 feature engineering configurations in word embedding by combining three-word embedding models, three pooling techniques, and three machine-learning classifiers. In total, there are 39 feature engineering combinations.
+The full report can be seen in [**this link**](https://thesai.org/Downloads/Volume14No12/Paper_108-Indonesian_Twitter_Emotion_Recognition_Model.pdf).
 
 ## Dataset & Experiment Results
 
